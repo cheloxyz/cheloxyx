@@ -6,7 +6,7 @@ Hola mi nombre es Marcelo, soy desarrollador web fullstack.
 - Bases de Datos: MySQL, MongoDB
 - Frameworks: Express.js, Laravel, CodeIgniter
 - Herramientas: Git, Visual Studio Code, Postman, Docker
-- Other: Wordpress Plugins, Woocommerce
+- Otros: Wordpress Plugins, Integraciones con Woocommerce
 ---
 ##  Welcome to my profile  👋
 Hello my name is Marcelo, I am a fullstack web developer.
@@ -16,4 +16,4 @@ Hello my name is Marcelo, I am a fullstack web developer.
 - Databases: MySQL, MongoDB
 - Frameworks: Express.js, Laravel, CodeIgniter
 - Tools: Git, Visual Studio Code, Postman, Docker
-- Other: Wordpress Plugins, Woocommerce
+- Others: WordPress Plugins, Woocommerce Integrations
